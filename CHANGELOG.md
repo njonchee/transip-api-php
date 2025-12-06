@@ -1,5 +1,9 @@
 CHANGELOG
 =========
+6.53.14
+-----
+* Add compatibility for Symfony 8.x
+
 6.53.13
 -----
 * Add `UsagesReposiory` resource
